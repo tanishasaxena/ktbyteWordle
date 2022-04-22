@@ -2,6 +2,7 @@ applet
 arrays
 backup
 binary
+buffer
 cookie
 cursor
 device
@@ -22,7 +23,9 @@ invoke
 ktbyte
 laptop
 markup
+matrix
 memory
+method
 module
 output
 objext
@@ -30,10 +33,13 @@ online
 parser
 parity
 python
+pseudo
 prompt
+prefix
 reboot
 remote
 return
+router
 script
 scroll
 search
@@ -47,3 +53,5 @@ system
 thread
 toggle
 wizard
+vector
+vscode

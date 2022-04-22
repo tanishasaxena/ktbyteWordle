@@ -10,6 +10,7 @@ double
 domain
 editor
 engine
+entity
 extend
 export
 global
@@ -34,9 +35,11 @@ remote
 return
 script
 scroll
+search
 secure
 serial
 server
+source
 string
 syntax
 system

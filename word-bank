@@ -1,5 +1,7 @@
+access
 applet
 arrays
+analog
 backup
 binary
 buffer
@@ -12,6 +14,7 @@ double
 domain
 editor
 engine
+encode
 entity
 extend
 export
@@ -22,6 +25,7 @@ import
 invoke
 ktbyte
 laptop
+linear
 markup
 matrix
 memory
@@ -32,6 +36,7 @@ objext
 online
 parser
 parity
+piracy
 python
 pseudo
 prompt
@@ -39,6 +44,7 @@ prefix
 reboot
 remote
 return
+replit
 router
 script
 scroll
